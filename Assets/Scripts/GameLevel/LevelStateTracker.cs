@@ -4,6 +4,7 @@ using CardGame;
 using System.Collections.Generic;
 using System;
 using System.Collections;
+using UniRx;
 
 public enum LevelState
 {
