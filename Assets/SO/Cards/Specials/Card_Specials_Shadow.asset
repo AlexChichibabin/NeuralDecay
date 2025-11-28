@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a76c2dee7e33efd47ad2e25f0932fde9, type: 3}
+  m_Name: Card_Specials_Shadow
+  m_EditorClassIdentifier: 
+  m_CardUnit: 13
+  m_CardName: Shadow
+  m_PictureColor: {r: 1, g: 1, b: 1, a: 1}
+  m_ElitePowerColor: {r: 0, g: 0, b: 0, a: 0}
+  m_PictureSprite: {fileID: 21300000, guid: 7cfaadc62087c694290fd0da2caecc9b, type: 3}
+  m_AspectRatio: 0.8
+  m_FractionSprite: {fileID: 21300000, guid: e2f2124dd85878145870cebbcf6fad3b, type: 3}
+  m_FrontTypeSprite: {fileID: 21300000, guid: b0bc00e884420be4bb4328d6383a3322, type: 3}
+  m_AbilitySprite: {fileID: 21300000, guid: ac72ad4e4de7cdb41823ff1083ce3266, type: 3}
+  m_DefaultPower: 0
+  m_Faction: 0
+  m_Front: 0
+  m_CardTypeBase: 2
+  m_CardTypeEffect: 0
+  m_CardTypeGroup: 0
+  m_IsDisplacer: 1
+  m_CritErrorNeededEnemyPower: 0
+  m_RestoreCardCount: 1
+  m_TacticalRetreatChance: 0
